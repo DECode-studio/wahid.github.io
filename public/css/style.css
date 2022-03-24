@@ -25,3 +25,20 @@
     width: 240px;
     height: 240px;
 }
+
+.col.cr-profile {
+    flex: 0 0 auto !important;
+    width: 355px !important;
+}
+
+@media screen and (max-width: 600px) {
+	.col.cr-profile {
+        flex: 1 0 0% !important;
+    }
+}
+
+@media screen and (max-width: 765px) {
+	.col.cr-profile {
+        flex: 1 0 0% !important;
+    }
+}
