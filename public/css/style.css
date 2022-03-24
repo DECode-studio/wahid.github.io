@@ -11,12 +11,17 @@
     border-radius: 500px;
 }
 
-.fs-18 {
-    font-size: 18px;
+.fs-15 {
+    font-size: 15px;
     text-align: left;
 }
 
 .fs-10 {
     font-size: 11px;
     text-align: justify;
+}
+
+.img-pro {
+    width: 200px;
+    height: 200px;
 }
